@@ -1,0 +1,11 @@
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\bin\Debug\netcoreapp3.1\bai4.exe
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\bin\Debug\netcoreapp3.1\bai4.deps.json
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\bin\Debug\netcoreapp3.1\bai4.runtimeconfig.json
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\bin\Debug\netcoreapp3.1\bai4.runtimeconfig.dev.json
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\bin\Debug\netcoreapp3.1\bai4.dll
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\bin\Debug\netcoreapp3.1\bai4.pdb
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\obj\Debug\netcoreapp3.1\bai4.csprojAssemblyReference.cache
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\obj\Debug\netcoreapp3.1\bai4.AssemblyInfoInputs.cache
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\obj\Debug\netcoreapp3.1\bai4.AssemblyInfo.cs
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\obj\Debug\netcoreapp3.1\bai4.dll
+C:\Users\HP Envy\Documents\C#\BTVN_Buoi2\bai4\obj\Debug\netcoreapp3.1\bai4.pdb
